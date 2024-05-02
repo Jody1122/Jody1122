@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Jody1122's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jody1122&theme=vue-dark&hide_border=true)
+
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,flutter&perline=3)](https://skillicons.dev)
