@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 ![Jody1122's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jody1122&theme=vue-dark&hide_border=true)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=r,py,mysql,aws,vscode,tableau,& perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,mysql,aws,vscode,tableau,&perline=10)](https://skillicons.dev)
